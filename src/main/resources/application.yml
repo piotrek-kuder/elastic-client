@@ -12,7 +12,7 @@ spring:
     property-naming-strategy: SNAKE_CASE
     
 server:
-  port: 8001
+  port: 8080
   
 management:
   elastic:
