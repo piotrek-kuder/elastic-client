@@ -12,7 +12,7 @@ spring:
     property-naming-strategy: SNAKE_CASE
     
 server:
-  port: 8080
+  port: 8001
   
 management:
   elastic:
@@ -20,7 +20,7 @@ management:
       export:
         step: 30s
         user-name: elastic
-        password: EJ5_tAa4QJwkOzYtMnF4
+        password: mHFRPVoeyo6Il0QM7zSy
         
 springdoc:
   swagger-ui:
